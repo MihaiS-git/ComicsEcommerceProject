@@ -1,2 +1,8 @@
-package com.mihaisuciu.ecommerce.dto;public class PurchaseResponse {
+package com.mihaisuciu.ecommerce.dto;
+
+import lombok.Data;
+
+@Data
+public class PurchaseResponse {
+    private final String orderTrackingNumber;
 }

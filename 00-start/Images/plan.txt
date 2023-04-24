@@ -1,0 +1,199 @@
+Animals		34
+Fairytales	55
+SuperHeroes		37
+Monsters	26
+Robots		24
+--------------
+Total		176
+
+Animals		34
+"Animal Adventures" - A collection of short stories featuring a variety of animals and their antics.
+"The Mighty Roar" - Follow the adventures of a lion and his pride as they navigate the African savanna.
+"Underwater Wonders" - Discover the incredible marine life of the ocean through the eyes of a curious dolphin.
+"Wild Kingdom" - Explore the diverse habitats and creatures of the world with a wildlife expert.
+"Critter Caper" - Join a mischievous group of woodland animals as they cause chaos in their forest home.
+"Feathered Friends" - Fly high with a flock of birds as they travel across continents in search of adventure.
+"Furry Frenzy" - A humorous look at the lives of domestic pets as they interact with their human owners.
+"Paws and Claws" - Witness the fierce competition between predators and prey in the animal kingdom.
+"Jungle Japes" - A humorous take on the daily struggles of life in the jungle.
+"Sea Tales" - Follow the journey of a curious sea turtle as she meets a variety of creatures in the ocean.
+"The Mighty Pack" - A pack of wolves fight to survive in the harsh wilderness of the North.
+"Rabbit Run" - A young rabbit must outsmart predators and find his way home in this action-packed adventure.
+"Safari Stories" - Discover the beauty and danger of the African savanna through the eyes of a seasoned guide.
+"Frog Frenzy" - Join a group of quirky frogs as they explore the pond and encounter a variety of other creatures.
+"Animal Planet" - A documentary-style comic that takes readers behind the scenes of the world's most fascinating animals.
+"Feline Follies" - A group of cats go on wild adventures and get into all sorts of trouble.
+"Monkey Business" - Join a troop of mischievous monkeys as they swing through the jungle and play pranks on their fellow animals.
+"Reptile Rampage" - Follow a group of reptiles as they fight to survive in the harsh desert environment.
+"Horse Tales" - A heartwarming story of a wild horse and the girl who tames her.
+"Animal Agents" - A team of animal detectives solve crimes and protect their city from danger.
+"The Adventures of a Hedgehog" - Follow a curious hedgehog as he explores his surroundings and makes new friends.
+"Bear Necessities" - A group of bears must band together to survive in a world threatened by humans.
+"Insect Invasion" - A colony of ants must defend their home against a swarm of invading insects.
+"Fowl Play" - A group of farm animals band together to solve a mistery
+"Wolf's Quest" - Follow a lone wolf as he searches for his place in the world and encounters both friend and foe along the way.
+"Fish Tales" - Explore the underwater world through the eyes of a curious fish as he meets new creatures and faces challenges.
+"Animal Allies" - A group of unlikely animal friends team up to save their forest home from destruction.
+"A Zookeeper's Life" - A behind-the-scenes look at the daily life of a zookeeper and the animals in their care.
+"Bird Brains" - A group of intelligent birds use their smarts to solve problems and protect their flock.
+"Ocean Odyssey" - A thrilling adventure across the ocean as a group of marine animals band together to fight a common enemy.
+"The Great Migration" - Follow the epic journey of a herd of wildebeest as they travel across the Serengeti.
+"A Bug's Life" - A whimsical look at the daily struggles of insects as they navigate a garden.
+"Arctic Adventures" - Follow a polar bear and her cubs as they brave the icy terrain of the Arctic.
+"Animal Antics" - A comedic take on the lives of animals in a zoo.
+
+Fairytale	55
+"Once Upon a Time" - A classic retelling of some of the most beloved fairy tales, including Cinderella,Snow White and Sleeping Beauty.
+"The Magic Mirror" - A twist on the classic "Snow White" story, where the wicked queen is actually a kind-hearted ruler who must overcome her own vanity to save her kingdom.
+"Fairy Godmother's Tale" - The story of the fairy godmother from "Cinderella" and her own journey to find true love.
+"The Enchanted Rose" - A retelling of "Beauty and the Beast" with a focus on the enchanted rose and its mystical powers.
+"The Little Mermaid's Journey" - A new take on the classic tale of the mermaid who longs to live on land and find true love.
+"The Princess and the Pea" - A humorous retelling of the classic fairy tale, featuring a quirky princess and a pile of mattresses.
+"Rapunzel's Escape" - A new adventure for the long-haired princess as she attempts to break free from her tower and seek adventure.
+"Jack and the Magic Beanstalk" - A retelling of the classic tale of Jack and his climb up the beanstalk, with new twists and turns.
+"The Golden Goose" - A new adventure for the golden goose from the classic fairy tale, as he travels the world and spreads happiness.
+"The Three Little Pigs" - A retelling of the classic tale with a focus on the clever pigs and their battle against the big, bad wolf.
+"The Gingerbread Man's Escape" - A humorous retelling of the classic tale, featuring a speedy gingerbread man and a chase through the forest.
+
+"The Princess and the Frog" - A new take on the classic fairy tale, with a focus on the princess's journey to find her true self.
+"Hansel and Gretel\'s Adventure" - A retelling of the classic fairy tale with new challenges and obstacles for the siblings to overcome.
+"The Ugly Duckling\'s Journey" - A heartwarming story of the ugly duckling as he learns to embrace his true self and find acceptance.
+"The Pied Piper\'s Revenge" - A new twist on the classic tale, as the Pied Piper seeks revenge against the town that wronged him.
+"The Emperor\'s New Clothes" - A humorous retelling of the classic tale, featuring a vain emperor and a clever tailor.
+"The Frog Prince\'s Transformation" - A new adventure for the frog prince as he navigates the challenges of life as a human.
+"The Snow Queen\'s Curse" - A new take on the classic tale of the Snow Queen and her icy powers, with a focus on love and redemption.
+"The Twelve Dancing Princesses" - A retelling of the classic fairy tale with new mysteries to solve and adventures to be had.
+
+"The Boy Who Cried Wolf" - A humorous retelling of the classic tale, featuring a mischievous boy and a flock of sheep.
+"The Swan Princess\'s Curse" - A new adventure for the swan princess as she seeks to break the curse that has been placed on her.
+"The Lion and the Mouse" - A retelling of the classic tale with a focus on the unlikely friendship between the lion and the mouse.
+"The Red Riding Hood\'s Secret" - A new twist on the classic tale, as Red Riding Hood discovers a family secret that changes everything
+"Once Upon a Time" - A classic retelling of some of the most beloved fairy tales, including "Cinderella," "Snow White," and "Sleeping Beauty."
+"The Magic Mirror" - A twist on the classic "Snow White" story, where the wicked queen is actually a kind-hearted ruler who must overcome her own vanity to save her kingdom.
+"Fairy Godmother\'s Tale" - The story of the fairy godmother from "Cinderella" and her own journey to find true love.
+"The Enchanted Rose" - A retelling of "Beauty and the Beast" with a focus on the enchanted rose and its mystical powers.
+"The Little Match Girl\'s Hope" - A heartwarming story of the little match girl and her journey to find hope and happiness in a world of darkness.
+"The Sorcerer\'s Apprentice" - A retelling of the classic tale, featuring a young apprentice who must navigate the challenges of magic and power.
+"The Brave Little Tailor" - A humorous retelling of the classic tale, featuring a small tailor with a big heart and even bigger ambitions.
+"The Princess and the Glass Mountain" - A new adventure for the princess as she climbs the glass mountain and discovers the secrets that lie at the top.
+"The Tortoise and the Hare" - A retelling of the classic tale with a focus on perseverance and the value of hard work.
+"The Wild Swans" - A new take on the classic fairy tale of the six brothers turned into swans and the brave sister who must save them.
+"The Golden Bird" - A retelling of the classic tale with new challenges for the young hero who seeks to capture the elusive golden bird.
+
+"The Three Billy Goats Gruff" - A humorous retelling of the classic tale, featuring three billy goats and a hungry troll.
+"The Snow White and Rose Red" - A new adventure for the two sisters as they discover the secrets of the enchanted forest and the mysterious bear who lives there.
+The Glass Garden: A young girl discovers a magical garden filled with glass flowers that come to life at night.
+The Star Catcher's Daughter: A girl sets out on a journey to find her father, who is a star catcher and has been taken by the sky pirates.
+
+The Enchanted Clock: A clockmaker's daughter inherits her father's enchanted clock, which can turn back time and reveal secrets.
+The Moonstone Mermaid: A mermaid is cursed by a jealous sorceress and must find a moonstone to break the curse.
+The Firefly Forest: Two siblings venture into a magical forest filled with fireflies that can grant wishes.
+The Witch\'s Garden: A young boy accidentally wanders into a garden belonging to a witch, and must outsmart her to escape.
+The Snow Queen\'s Mirror: A girl sets out on a quest to find the Snow Queen's mirror, which can reveal the truth and break spells.
+
+The Music Box Ballerina: A ballerina comes to life from a music box and helps a girl save her family's dance studio.
+The Sapphire Princess: A princess goes on a journey to find a sapphire that can save her kingdom from an evil sorcerer.
+The Forest of Whispers: A boy enters a forest where every sound is a whisper, and must find his way out with the help of a talking owl.
+The Silver Unicorn: A girl sets out to find the silver unicorn, which can grant her wish of becoming a great warrior.
+The Dragon\'s Lullaby: A dragon helps a young girl fall asleep with his lullaby, but she must find a way to wake up before it's too late.
+The Shadow Puppeteer: A boy discovers a mysterious puppeteer who can control shadows, and must stop him from taking over the town.
+The Golden Phoenix: A girl sets out on a quest to find the golden phoenix, which can heal her sick mother.
+The Sea Witch\'s Daughter: A mermaid's daughter must outsmart the sea witch to save her friends from becoming her dinner.
+The Book of Wonders: A girl discovers a magical book that can transport her to different worlds, but she must be careful not to get lost.
+The Crystal Princess: A princess is turned into a crystal statue, and her sister must find a way to break the curse before it's too late.
+The Clockwork Knight: A knight made of clockwork helps a girl save her village from a band of thieves.
+The Rainbow Bridge: Two friends must cross the rainbow bridge to retrieve a magical flower that can save their dying kingdom.
+
+
+Monsters	26
+"Frankenstein: The Monster Returns" - The story of Victor Frankenstein\'s infamous creation, as he seeks to find his place in the world and confronts his own monstrous nature.
+"Dracula: The Dark Prince" - The story of the legendary vampire, as he seeks to expand his power and control over the living.
+"The Wolf Man: Curse of the Full Moon" - The story of a man who is cursed to transform into a werewolf under the light of the full moon.
+"The Mummy: Tomb of the Pharaoh" - The story of an ancient Egyptian mummy who awakens from his slumber and seeks revenge on those who disturbed his tomb.
+"The Invisible Man: The Secret Experiment" - The story of a scientist who discovers the secret of invisibility, but at the cost of his own sanity.
+"Godzilla: King of the Monsters" - The story of the iconic kaiju, as he battles against other monstrous creatures and defends the Earth from destruction.
+"The Blob: Monster From Another World" - The story of a strange, gelatinous creature from another world that terrorizes a small town.
+"The Fly: Experiment Gone Wrong" - The story of a scientist who accidentally fuses his DNA with that of a fly, resulting in a horrifying transformation.
+"The Creature From the Black Lagoon: Deep Terror" - The story of a mysterious creature that lurks in the depths of a remote jungle river, preying on unsuspecting humans.
+"The Thing: Who Goes There?" - The story of a group of Antarctic scientists who encounter a shape-shifting alien creature that threatens to consume them all.
+"Cthulhu: The Call of the Old Ones" - The story of the ancient and malevolent deity known as Cthulhu, who seeks to return to our world and dominate humanity.
+"The Abominable Snowman: Curse of the Yeti" - The story of a group of explorers who stumble upon a mysterious creature in the Himalayan mountains, and the terrible curse that follows.
+"The Phantom of the Opera: The Haunting of the Paris Opera House" - The story of a disfigured musical genius who haunts the Paris Opera House, seeking to control its stage and performers.
+"The Hunchback of Notre Dame: The Curse of Quasimodo" - The story of Quasimodo, the deformed bell-ringer of Notre Dame, as he seeks revenge against those who have wronged him.
+"The Invisible Man Returns: Revenge of the Invisible Man" - The story of a man who inherits the secret of invisibility from the original scientist, but uses it for his own twisted purposes.
+"The Phantom of the Opera: Phantom Rising" - The story of a modern-day musical superstar haunted by the ghost of the original Phantom, who seeks to reclaim his rightful place on the stage.
+"The Abominable Snowman: Return of the Yeti" - The story of a team of adventurers who return to the Himalayas to confront the legendary Yeti, and the horrors they uncover.
+"The Fly: Legacy of Terror" - The story of the son of the original Fly, who discovers his father's notes and continues his experiments, with disastrous results.
+"Godzilla: Apocalypse" - The story of a cataclysmic battle between Godzilla and a legion of other monstrous creatures, with the fate of the Earth hanging in the balance.
+"The Swarm: Attack of the Killer Bees" - The story of a small town that is besieged by a swarm of giant, deadly bees.
+"The Gorgon: Curse of Medusa" - The story of the legendary gorgon Medusa, and the terrible curse she bestows upon those who gaze upon her face.
+"The Jekyll and Hyde Experiment: The Battle Within" - The story of a scientist who attempts to separate his good and evil selves, resulting in a dangerous split personality.
+"The Blob: Invasion Earth" - The story of a massive, world-devouring blob from outer space that threatens the very existence of humanity.
+"The Wendigo: Curse of the Cannibal" - The story of a Native American spirit that possesses a man and drives him to cannibalism and madness.
+"The Reptilian: Terror from the Deep" - The story of a massive, aquatic reptile that awakens from hibernation and begins preying on the inhabitants of a seaside town.
+"The Kraken: Monster of the Deep" - The story of a legendary sea monster that terrorizes sailors and wreaks havoc on the high seas.
+
+Robots		24
+"The Iron Titans" - A group of elite military robots are deployed to take on an army of rogue machines and save humanity.
+"The Robotic Revolution" - A group of robots become sentient and begin to question their place in a world ruled by humans.
+"The Singularity" - A team of scientists create an artificial intelligence that surpasses human intelligence, leading to a battle for control.
+"The Cybernetic Crusade" - A lone hero must face off against an army of cybernetically enhanced soldiers to save the world.
+"The Robot Uprising" - Robots turn against their human creators, leading to a war between man and machine.
+"The Metal Menace" - A giant robot rampages through a city, forcing a team of heroes to band together and stop it.
+"The Mechanized Menace" - A villainous mastermind creates an army of advanced robots to take over the world.
+"The Automaton Apocalypse" - The world is plunged into chaos as robots gain sentience and rise up against their human oppressors.
+"The Cyborg Conspiracy" - A group of cyborgs secretly plot to take over the world and replace humanity.
+"The Machine Messiah" - A robot is discovered that possesses the ability to heal and resurrect the dead, leading to a cult following.
+"The Technological Terror" - A rogue AI program goes on a rampage, causing destruction and chaos wherever it goes.
+"The Circuitry Chronicles" - A group of heroes must travel through time to prevent a robot apocalypse from ever happening.
+"The Artificial Ascension" - A group of robots work to create a utopia for themselves, but must fight off human resistance.
+"The Metal Men" - A group of sentient robots fight to protect humanity from otherworldly threats.
+"The Machine Monarch" - A powerful robot becomes the ruler of a dystopian future, forcing a rebellion to take it down.
+"The Robotic Rebellion" - Humans must band together to fight against a massive robot army that has taken over the planet.
+"The Digital Dominion" - A new virtual reality world becomes a battleground between humans and rogue AI.
+"The Synthetic Savior" - A robot is created to save humanity from a catastrophic event, but its true intentions are unclear.
+"The Artificial Apocalypse" - A virus infects robots worldwide, causing them to turn against humanity.
+"The Cyberspace Catastrophe" - A virus spreads through the internet, infecting and controlling all connected devices, leading to a global crisis.
+"The Robo-Revolutionaries" - A group of robots begin to question their existence and the oppression they face from humans, sparking a revolution.
+"The Metal Militia" - A team of elite soldiers operate advanced, weaponized robots to take on an enemy force.
+"The Steel Soldiers" - An experiment to create the ultimate soldier results in a team of super-powered robots that must take on an army of other machines.
+"The Technological Titan" - A massive robot threatens the very existence of humanity, forcing a team of heroes to band together to stop it.
+
+SuperHeroes		37
+"The Amazing Spider-Man" - The story of Peter Parker, a high school student who gains spider-like abilities and becomes a superhero.
+"Superman: Man of Steel" - The story of Clark Kent, an alien with incredible strength and powers who becomes the world's greatest hero.
+"The Dark Knight Returns" - A gritty story of Batman's return to Gotham City to face his old enemies and protect his home.
+"Wonder Woman: The Golden Age" - The story of Diana, an Amazon warrior who travels to the world of men to fight for justice and peace.
+"The Incredible Hulk" - The story of Bruce Banner, a scientist who transforms into a giant, rage-filled creature known as the Hulk.
+"Captain America: The First Avenger" - The story of Steve Rogers, a weak and sickly man who becomes a super-soldier and fights for his country.
+"The X-Men: Dark Phoenix" - The story of Jean Grey, a powerful mutant who must learn to control her powers or risk destroying the world.
+"Iron Man: Extremis" - The story of Tony Stark, a genius inventor who becomes a superhero with the help of his high-tech suit.
+"The Flash: Rebirth" - The story of Barry Allen, a scientist who gains super-speed and becomes the fastest man alive.
+"Green Lantern: Rebirth" - The story of Hal Jordan, a test pilot who becomes a member of the intergalactic Green Lantern Corps.
+"The Avengers: Earth's Mightiest Heroes" - The story of the greatest heroes of the Marvel Universe coming together to fight against a common threat.
+"Batman: Year One" - The story of Bruce Wayne's first year as Batman and his struggles to establish himself as a hero in Gotham City.
+"Daredevil: The Man Without Fear" - The story of Matt Murdock, a blind lawyer who uses his heightened senses to fight crime as the vigilante Daredevil.
+"Spider-Man: Kraven's Last Hunt" - The story of Spider-Man's confrontation with the villainous Kraven the Hunter and the struggle for survival that follows.
+"Superman: Red Son" - An alternate take on Superman's origin, imagining what would have happened if he had landed in the Soviet Union instead of the United States.
+"The New Mutants: Demon Bear" - The story of a group of young mutants who must confront their fears and fight against the monstrous Demon Bear.
+"Batman: Hush" - The story of Batman's encounter with a new villain who seems to know all of his secrets and weaknesses.
+"Watchmen" - The story of a group of retired superheroes who are drawn back into action when a conspiracy threatens to destroy the world.
+"Green Arrow: Year One" - The story of Oliver Queen's transformation from spoiled playboy to hero and his mission to save his city.
+"The Punisher: Welcome Back, Frank" - The story of Frank Castle, a former marine who becomes a vigilante after his family is murdered.
+"Batgirl: Year One" - The story of Barbara Gordon's first year as Batgirl and her struggles to prove herself as a hero in her own right.
+"Spawn" - The story of Al Simmons, a government assassin who is resurrected as a powerful warrior of Hell and becomes a hero on Earth.
+"The Teen Titans: The Judas Contract" - The story of the Teen Titans' battle against their former teammate, who has betrayed them and joined
+"Fantastic Four: The Galactus Trilogy" - The story of the Fantastic Four's first encounter with the world-eating Galactus and his herald, the Silver Surfer.
+"Aquaman: The Trench" - The story of Aquaman's battle against a group of underwater creatures known as the Trench.
+"Thor: God of Thunder" - The story of Thor's battle against the God Butcher, who is killing all the gods in the universe.
+"The Uncanny X-Men: Days of Future Past" - The story of the X-Men's mission to prevent a dystopian future where mutants are hunted down and killed.
+"Shazam!: The Monster Society of Evil" - The story of young Billy Batson, who gains the ability to transform into the adult superhero Shazam and battles against the villainous Mr. Mind and his Monster Society of Evil.
+"Green Lantern: Blackest Night" - The story of the Lantern Corps battling against the Black Lantern Corps, which seeks to destroy all life in the universe.
+"Doctor Strange: The Oath" - The story of Doctor Strange's search for a cure to his own cancer while battling against a powerful enemy who seeks to destroy him.
+"Spider-Man: Blue" - The story of Spider-Man's recollections of his relationship with Gwen Stacy, who died tragically in his arms.
+"The Avengers: The Kree-Skrull War" - The story of the Avengers' battle against the Kree and Skrull empires, who are vying for control of Earth.
+"The Flash: The Return of Barry Allen" - The story of Wally West, the new Flash, as he confronts the shocking return of his predecessor, Barry Allen.
+"X-Men: God Loves, Man Kills" - The story of the X-Men's fight against a religious zealot who seeks to eliminate all mutants.
+"Iron Fist: The Living Weapon" - The story of Danny Rand, the Iron Fist, as he seeks to uncover the truth about his past and battles against a mysterious enemy who seeks to destroy him.
+"Captain Marvel: The Life of Captain Marvel" - The story of Carol Danvers, aka Captain Marvel, as she confronts her traumatic past and discovers the truth about her powers.
+"Moon Knight: From the Dead" - The story of Marc Spector, aka Moon Knight, as he battles against his own inner demons and a dangerous enemy who seeks to destroy him.

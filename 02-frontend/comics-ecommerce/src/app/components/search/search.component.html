@@ -1,0 +1,12 @@
+<form class="form-header my-2 my-lg-0">
+
+  <input #myInput type="search"
+         placeholder="Search for products ..."
+         class="form-control mr-sm-2"
+         (keyup.enter)="doSearch(myInput.value)"  />
+
+  <button (click)="doSearch(myInput.value)" class="btn btn-primary my-2 my-sm-0" type="submit">
+      Search
+  </button>
+
+</form>
