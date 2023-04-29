@@ -97,4 +97,20 @@ export class ProductListComponent implements OnInit {
     const theCartItem = new CartItem(theProduct);
     this.cartService.addToCart(theCartItem);
   }
+
+  sortByNameAscending() {
+    this.products.sort((a, b) => a.name.localeCompare(b.name));
+  }
+
+  sortByNameDescending() {
+    this.products.sort((a, b) => b.name.localeCompare(a.name));
+  }
+
+  sortByPriceAscending() {
+    this.products.sort((a, b) => a.unitPrice - b.unitPrice);
+  }
+
+  sortByPriceDescending() {
+    this.products.sort((a, b) => b.unitPrice - a.unitPrice);
+  }
 }
