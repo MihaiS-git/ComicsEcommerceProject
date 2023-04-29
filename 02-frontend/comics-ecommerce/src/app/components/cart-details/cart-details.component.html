@@ -19,7 +19,7 @@
             <td>
               <div class="items">
 
-                <label>Quantity:</label>
+                <label style="color:#f6db35">Quantity:</label>
                 <div class="row no-gutters">
 
                   <div class="col">
@@ -27,7 +27,7 @@
                       <i class="fas fa-plus"></i>
                     </button>
                   </div>
-                  <div class="col ml-4 mr-2">
+                  <div class="col ml-4 mr-2" style="color:#f6db35">
                     {{tempCartItem.quantity}}
                   </div>
                   <div class="col">
@@ -57,7 +57,7 @@
           </tr>
         </table>
       </div>
-      <div *ngIf="cartItems.length == 0" class="alert alert-warning col-md-12" role="alert">
+      <div *ngIf="cartItems.length == 0" class="alert col-md-12" role="alert">
         <p>The cart is empty.</p>
       </div>
     </div>

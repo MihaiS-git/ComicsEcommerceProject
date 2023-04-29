@@ -1,0 +1,20 @@
+.footer-pagination {
+  height: 5vw;
+  display: flexbox;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+.my-pag {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  position: absolute;
+  bottom: 0;
+}
+
+.my-page-size{
+  color: #f6db35;
+  margin: 20px;
+}
