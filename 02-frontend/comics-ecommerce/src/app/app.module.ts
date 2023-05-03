@@ -14,8 +14,14 @@ import { CartStatusComponent } from './components/cart-status/cart-status.compon
 import { CartDetailsComponent } from './components/cart-details/cart-details.component';
 import { CheckoutComponent } from './components/checkout/checkout.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { AdminPanelComponent } from './components/admin-panel/admin-panel.component';
+import { AdminPanelStatusComponent } from './components/admin-panel-status/admin-panel-status.component';
+import { OrderHistoryComponent } from './components/order-history/order-history.component';
 
 const routes: Routes = [
+  {path: 'admin-panel', component:AdminPanelComponent},
+  {path: 'admin-panel-status', component: AdminPanelStatusComponent},
+  {path: 'order-history', component: OrderHistoryComponent},
   {path: 'checkout', component: CheckoutComponent},
   {path: 'cart-details', component: CartDetailsComponent},
   {path: 'products/:id', component: ProductDetailsComponent},
@@ -37,7 +43,10 @@ const routes: Routes = [
     ProductDetailsComponent,
     CartStatusComponent,
     CartDetailsComponent,
-    CheckoutComponent
+    CheckoutComponent,
+    AdminPanelComponent,
+    AdminPanelStatusComponent,
+    OrderHistoryComponent
   ],
   imports: [
     RouterModule.forRoot(routes),

@@ -1,0 +1,37 @@
+.my-table {
+  color: black;
+  background-color: lightgrey;
+  border-collapse: collapse;
+  display: table-cell;
+}
+
+th,
+td {
+  width: 25%;
+  height: 3vw;
+  border: 1px solid black;
+  text-align: center;
+}
+
+th {
+  background-color: #0d6efd;
+  color: #f6db35;
+}
+
+input {
+  width: 30%;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+}
+
+h4 {
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+}
+
+.btn-outline-secondary {
+  color:#f6db35;
+  border-color: #f6db35;
+  margin: 1%;
+}
+

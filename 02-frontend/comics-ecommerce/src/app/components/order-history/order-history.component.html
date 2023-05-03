@@ -1,0 +1,83 @@
+<div class="main-content">
+  <div class="section-content section-content-p30">
+    <div class="container-fluid">
+      <label for="order-search">
+        <h4> Search Orders by Customer Email</h4>
+      </label>
+
+      <input #theEmail type="search" id="order-search" placeholder="Enter the Customer Email..."
+        class="form-control mr-sm-2" (keyup.enter)="handleOrderHistory(theEmail.value)" />
+
+      <button (click)="handleOrderHistory(theEmail.value)" class="btn btn-primary my-2 my-sm-0" type="submit">
+        Search Orders
+      </button>
+
+      <div *ngIf="orderHistoryList.length > 0">
+        <h4>The Orders History</h4>
+        <table class="my-table">
+          <tr>
+            <th>Order Tracking Number</th>
+            <th>
+              Total Price
+              <button type="button" class="btn btn-outline-secondary" (click)="sortByPriceAscending()"><svg
+                  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-arrow-up-short" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd"
+                    d="M8 12a.5.5 0 0 0 .5-.5V5.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 5.707V11.5a.5.5 0 0 0 .5.5z" />
+                </svg></button>
+              <button type="button" class="btn btn-outline-secondary" (click)="sortByPriceDescending()"><svg
+                  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-arrow-down-short" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd"
+                    d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4z" />
+                </svg></button>
+            </th>
+            <th>
+              Total Quantity
+              <button type="button" class="btn btn-outline-secondary" (click)="sortByQuantityAscending()"><svg
+                  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-arrow-up-short" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd"
+                    d="M8 12a.5.5 0 0 0 .5-.5V5.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 5.707V11.5a.5.5 0 0 0 .5.5z" />
+                </svg></button>
+              <button type="button" class="btn btn-outline-secondary" (click)="sortByQuantityDescending()"><svg
+                  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-arrow-down-short" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd"
+                    d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4z" />
+                </svg></button>
+            </th>
+            <th>
+              Date
+              <button type="button" class="btn btn-outline-secondary" (click)="sortByDateAscending()"><svg
+                  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-arrow-up-short" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd"
+                    d="M8 12a.5.5 0 0 0 .5-.5V5.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 5.707V11.5a.5.5 0 0 0 .5.5z" />
+                </svg></button>
+              <button type="button" class="btn btn-outline-secondary" (click)="sortByDateDescending()"><svg
+                  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-arrow-down-short" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd"
+                    d="M8 4a.5.5 0 0 1 .5.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5A.5.5 0 0 1 8 4z" />
+                </svg></button>
+            </th>
+          </tr>
+          <tr *ngFor="let tempOrderHistory of orderHistoryList">
+            <td>{{ tempOrderHistory.orderTrackingNumber }}</td>
+            <td>{{ tempOrderHistory.totalPrice | currency:"USD"}}</td>
+            <td>{{ tempOrderHistory.totalQuantity }}</td>
+            <td>{{ tempOrderHistory.dateCreated | date:"medium"}}</td>
+          </tr>
+          <tr>
+            <td><strong>TOTALS</strong></td>
+            <td>Total spent: {{calculatePriceTotals() | currency:"USD"}}</td>
+            <td>Number of products: {{calculateQuantityTotals()}}</td>
+            <td>Medium price: {{calculatePriceTotals() / calculateQuantityTotals() | currency:"USD"}}</td>
+          </tr>
+
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

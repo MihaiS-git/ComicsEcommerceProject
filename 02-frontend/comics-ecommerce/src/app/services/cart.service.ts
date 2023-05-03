@@ -13,13 +13,13 @@ export class CartService {
 
   constructor() {
     let data = JSON.parse(this.storage.getItem('cartItems')!);
-    if(data != null){
+    if (data != null) {
       this.cartItems = data;
     }
     this.computeTotals();
   }
 
-  persistCartItems(){
+  persistCartItems() {
     this.storage.setItem('cartItems', JSON.stringify(this.cartItems));
   }
 
@@ -59,10 +59,13 @@ export class CartService {
     console.log('Contents of the cart:');
     for (let tempCartItem of this.cartItems) {
       const subTotalPrice = tempCartItem.quantity * tempCartItem.unitPrice;
-      console.log(`name: ${tempCartItem.name}, quantity=${tempCartItem.quantity}, price=${tempCartItem.unitPrice}, subTotalPrice=${subTotalPrice}`);
+      console.log(
+        `name: ${tempCartItem.name}, quantity=${tempCartItem.quantity}, price=${tempCartItem.unitPrice}, subTotalPrice=${subTotalPrice}`
+      );
     }
 
-    console.log(`totalPrice: ${totalPriceValue.toFixed(2)}, totalQuantity: ${totalQuantityValue}`);
+    console.log(
+      `totalPrice: ${totalPriceValue.toFixed(2)}, totalQuantity: ${totalQuantityValue}`);
     console.log('----');
   }
 

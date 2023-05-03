@@ -1,9 +1,6 @@
 package com.mihaisuciu.ecommerce.config;
 
-import com.mihaisuciu.ecommerce.entity.Country;
-import com.mihaisuciu.ecommerce.entity.Product;
-import com.mihaisuciu.ecommerce.entity.ProductCategory;
-import com.mihaisuciu.ecommerce.entity.State;
+import com.mihaisuciu.ecommerce.entity.*;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.metamodel.EntityType;
 import org.springframework.beans.factory.annotation.Value;
@@ -42,6 +39,7 @@ public class MyDataRestConfig implements RepositoryRestConfigurer {
         disableHttpMethods(ProductCategory.class, config, theUnsupportedActions);
         disableHttpMethods(Country.class, config, theUnsupportedActions);
         disableHttpMethods(State.class, config, theUnsupportedActions);
+        disableHttpMethods(Order.class, config, theUnsupportedActions);
 
         // call an internal helper method
         exposeIds(config);
